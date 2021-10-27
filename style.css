@@ -1,0 +1,51 @@
+
+.container{
+    max-width: 500px;
+    margin: auto;
+    background-color: lavender;
+}
+.page{
+    margin: 10px;
+}
+.entete{
+  
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-center{
+    display: flexbox;
+    content: inherit;
+    
+}
+.texte{
+    background-color: lavender;
+    
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.image-texte{
+   
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+.image img{
+    border-radius:50%;
+}
+.ulistration{
+    background-color: slategrey;
+    color:white;
+    font-size: 25px;
+    margin: 0.3%;
+    height: 30px;
+}
+.autre{
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
+.pied{
+    font-size: 18px;
+    padding-top: 30px;
+}
